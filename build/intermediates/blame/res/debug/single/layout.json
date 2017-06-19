@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download_selection.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\res\\layout\\activity_download_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\res\\layout\\activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\build\\intermediates\\res\\merged\\debug\\layout\\bucket_item.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\res\\layout\\bucket_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\build\\intermediates\\res\\merged\\debug\\layout\\record_item.xml",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Amazon S3\\res\\layout\\record_item.xml"
+    }
+]
